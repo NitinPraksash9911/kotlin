@@ -181,3 +181,7 @@ org.jetbrains.kotlin.idea.fir.FirLazyResolveTestGenerated.testInSecondary_InSeco
 org.jetbrains.kotlin.idea.resolve.FirReferenceResolveTestGenerated.testInClassParameterField, Massive mute
 org.jetbrains.kotlin.idea.resolve.FirReferenceResolveTestGenerated.testInClassParameter, Massive mute
 org.jetbrains.kotlin.test.CompatibilityVerifierVersionComparisonTest.testCurrentPluginVersionParsing, Massive mute
+org.jetbrains.kotlin.idea.scratch.ScratchRunActionTestGenerated.ScratchMultiFile.testJavaDep, Massive mute
+org.jetbrains.kotlin.idea.scratch.ScratchRunActionTestGenerated.ScratchRepl.testGenerics, Massive mute
+org.jetbrains.kotlin.idea.scratch.ScratchRunActionTestGenerated.ScratchRepl.testLibraryDepWithKotlinTest, Massive mute
+org.jetbrains.kotlin.idea.scratch.ScratchRunActionTestGenerated.ScratchRepl.testSimple, Massive mute
