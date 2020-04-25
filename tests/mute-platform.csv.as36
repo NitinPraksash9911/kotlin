@@ -24,3 +24,36 @@ org.jetbrains.kotlin.idea.debugger.test.KotlinSteppingTestGenerated.StepOver.tes
 org.jetbrains.kotlin.idea.debugger.test.KotlinSteppingTestGenerated.StepOverForce.testSofSuspendableCallInFun, Super FLAKY on Android Studio (can be reproduced locally)
 org.jetbrains.kotlin.idea.quickfix.QuickFixMultiFileTestGenerated.AutoImports.testAmbiguousNamePreferFromJdk, Class from JDK is not prioritized
 org.jetbrains.kotlin.idea.codeInsight.gradle.GradleKtsImportTest.testError, KT-37864
+org.jetbrains.kotlin.nj2k.NewJavaToKotlinConverterSingleFileTestGenerated.Types.testCapturedWildcardTypeAsLambdaParameter, Massive mute
+org.jetbrains.kotlin.nj2k.NewJavaToKotlinConverterSingleFileTestGenerated.Types.testUnusedCapturedWildcardTypeInSAM, Massive mute
+org.jetbrains.kotlin.idea.scratch.ScratchRunActionTestGenerated.ScratchMultiFile.testInlineFun, Massive mute
+org.jetbrains.kotlin.idea.scratch.ScratchRunActionTestGenerated.ScratchCompiling.testSimple, Massive mute
+org.jetbrains.kotlin.idea.intentions.IntentionTestGenerated.IntroduceImportAlias.testAddImportWithDefaultClassAndFunction, Massive mute
+org.jetbrains.kotlin.idea.intentions.IntentionTestGenerated.IntroduceImportAlias.testWithReceiver3, Massive mute
+org.jetbrains.kotlin.idea.refactoring.introduce.ExtractionTestGenerated.ExtractFunction.Basic.testCallWithPlatformTypeReceiver, Massive mute
+org.jetbrains.kotlin.idea.refactoring.introduce.ExtractionTestGenerated.ExtractFunction.Basic.testSameParameterNames, Massive mute
+org.jetbrains.kotlinx.serialization.SerializationPluginBytecodeListingTestGenerated.testBasic, Massive mute
+org.jetbrains.kotlin.idea.debugger.test.KotlinEvaluateExpressionTestGenerated.SingleBreakpoint.Frame.testSuspendContinuation, Massive mute
+org.jetbrains.kotlin.idea.configuration.ConfigureKotlinInTempDirTest.testDropKotlincOnVersionAutoAdvance, Massive mute
+org.jetbrains.kotlin.checkers.FirPsiCheckerTestGenerated.Checker.testAnnotationOnFile, Massive mute
+org.jetbrains.kotlin.idea.decompiler.textBuilder.DecompiledTextConsistencyTest.testConsistency, Massive mute
+org.jetbrains.kotlin.idea.scratch.ScratchRunActionTestGenerated.ScratchCompiling.testLibraryDepWithKotlinTest, Massive mute
+org.jetbrains.kotlin.idea.codeInsight.MoveOnCutPasteTestGenerated.testFromObjectToSameFile, Massive mute
+org.jetbrains.kotlin.checkers.JavaAgainstKotlinSourceCheckerTestGenerated.JavaAgainstKotlin.testUsingReadOnlyInterfaces, Massive mute
+org.jetbrains.kotlin.idea.scripting.gradle.GradleScriptInputsWatcherTest.testChangeOutsideSectionsInvalidatesOtherFiles, Massive mute
+org.jetbrains.kotlin.idea.inspections.LocalInspectionTestGenerated.RedundantCompanionReference.testNamedWithSameNameFunction, Massive mute
+org.jetbrains.kotlin.idea.scripting.gradle.GradleScriptInputsWatcherTest.testTwoFilesChanged, Massive mute
+org.jetbrains.kotlin.idea.inspections.LocalInspectionTestGenerated.RedundantCompanionReference.testNamedWithSameNameFunction2, Massive mute
+org.jetbrains.kotlin.idea.debugger.test.XCoroutinesStackTraceTestGenerated.testCoroutineSuspendFun136, Massive mute
+org.jetbrains.kotlin.idea.codeInsight.MoveOnCutPasteTestGenerated.testFromCompanionObjectToTopLevel, Massive mute
+org.jetbrains.kotlin.idea.codeInsight.MoveOnCutPasteTestGenerated.testFromObjectToTopLevel, Massive mute
+org.jetbrains.kotlin.idea.quickfix.QuickFixTestGenerated.Override.testOverriddingMultipleFinalMethods, Massive mute
+org.jetbrains.kotlin.checkers.FirPsiCheckerTestGenerated.Checker.testBuilders, Massive mute
+org.jetbrains.kotlin.idea.scripting.gradle.GradleScriptInputsWatcherTest.testChangeInsideSectionsInvalidatesOtherFiles, Massive mute
+org.jetbrains.kotlin.checkers.FirPsiCheckerTestGenerated.Checker.testWhen, Massive mute
+org.jetbrains.kotlin.idea.fir.FirLazyResolveTestGenerated.testInSecondary_InSecondary, Massive mute
+org.jetbrains.kotlin.idea.resolve.FirReferenceResolveTestGenerated.testInClassParameterField, Massive mute
+org.jetbrains.kotlin.idea.resolve.FirReferenceResolveTestGenerated.testInClassParameter, Massive mute
+org.jetbrains.kotlin.idea.codeInsight.InspectionTestGenerated.Inspections.testUnusedReceiverParameter_inspectionData_Inspections_test, Massive mute
+org.jetbrains.kotlin.test.CompatibilityVerifierVersionComparisonTest.testCurrentPluginVersionParsing, Massive mute
+org.jetbrains.kotlin.idea.scratch.SequentialScratchExecutorTest.testMultipleLinesAfterEach, Massive mute
